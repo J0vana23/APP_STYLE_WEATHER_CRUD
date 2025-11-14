@@ -87,9 +87,9 @@ O app utiliza **Firebase** para autenticação, armazenamento de dados e gerenci
 
 ---
 
-## 📸 Imagens do App
 
-<h2 align="center">Galeria de Screenshots</h2>
+<h2 align="center">
+📸 Imagens do App</h2>
 
 <table align="center">
   <tr>
