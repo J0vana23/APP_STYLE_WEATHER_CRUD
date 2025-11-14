@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436039810696",
+    "project_id": "styleweather-appnew",
+    "storage_bucket": "styleweather-appnew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436039810696:android:9e5566a55bfe935e80693d",
+        "android_client_info": {
+          "package_name": "com.example.styleweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXOUtxkNK0BrdYTI1SJaBNNIbpF_ceso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
