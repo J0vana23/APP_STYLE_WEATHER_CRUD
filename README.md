@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8C2BFF&size=35&center=true&vCenter=true&width=1000&lines=App+em+Kotlin+e+Firebase;Style+Weather)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8C2BFF&size=35&center=true&vCenter=true&width=1000&lines=App+em+Kotlin+e+Firebase;Style+Weather)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img width="250" height="250" alt="image1" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
-  <img width="330" height="381" alt="Screenshot_20251114_050418_One_UI_Home_1_-removebg-preview" src="https://github.com/user-attachments/assets/37de87d9-9252-4bf2-876a-153b09d90755" />
+  <img width="230" height="281" alt="Screenshot_20251114_050418_One_UI_Home_1_-removebg-preview" src="https://github.com/user-attachments/assets/37de87d9-9252-4bf2-876a-153b09d90755" />
   <img width="250" height="250" alt="image3" src="https://github.com/user-attachments/assets/e74e4f57-01dd-4ca2-8141-327c9142ef1e" />
 </div>
 
@@ -129,3 +129,19 @@ O app utiliza **Firebase** para autenticação, armazenamento de dados e gerenci
     </td>
   </tr>
 </table>
+
+<h2 align="center">
+📸 Imagens do Banco
+</h2>
+
+<div align="center">
+  <p><b>FIREBASE - AUTHENTICATION</b></p>
+  <img width="800" src="https://github.com/user-attachments/assets/9142b0ea-f01a-480b-ad42-0de8005df8eb" alt="Banco 1"/>
+  
+  <p><b>FIREBASE - FIRESTORE USERS</b></p>
+  <img width="800" src="https://github.com/user-attachments/assets/71454dd4-9420-447b-9572-55624fe50432" alt="Banco 2"/>
+  
+  <p><b>FIREBASE - FIRESTORE ROUPAS</b></p>
+  <img width="800" src="https://github.com/user-attachments/assets/4754b8b7-dc61-4933-9840-1d9f26a71e74" alt="Banco 3"/>
+</div>
+
